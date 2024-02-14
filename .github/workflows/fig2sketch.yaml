@@ -12,8 +12,8 @@ jobs:
       - uses: actions/checkout@v3
       - uses: italia/figma-to-sketch-action@v1.0.0 # https://github.com/italia/figma-to-sketch-action
         with:
-          files: 'file-da-sostituire.fig' # File di input .fig (Figma) separati da `|`
-          output_files: 'file-da-sostituire.sketch' # File di output .sketch (Sketch) risultanti separati da `|`
+          files: 'Comuni - Modello sito e servizi.fig|Comuni - Libreria componenti.fig' # File di input .fig (Figma) separati da `|`
+          output_files: 'Comuni - Modello sito e servizi.sketch|Comuni - Libreria componenti.sketch' # File di output .sketch (Sketch) risultanti separati da `|`
       - uses: EndBug/add-and-commit@v9
         with:
           author_name: Bot
