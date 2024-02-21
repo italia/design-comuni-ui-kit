@@ -8,7 +8,7 @@ _🇬🇧 [English version](README.EN.md)_
 
 --- 
 
-## Cos'è
+## Descrizione
 
 Questo repository contiene lo UI Kit per il modello di sito e servizi per i comuni italiani.
 
