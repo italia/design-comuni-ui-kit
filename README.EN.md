@@ -36,3 +36,5 @@ Below are the available guides depending on the software used:
 ## How to contribute 💙
 
 If you want to report a problem or make an improvement request, open an [issue](https://github.com/italia/design-comuni-ui-kit/issues) using the [labels](https://github.com/italia/design-comuni-ui-kit/labels) correctly depending on the type of report.
+
+If you want to contribute with improvements or problem corrections, open a [pull request](https://github.com/italia/design-comuni-ui-kit/pulls) using the [labels](https://github.com/italia/design-comuni-ui-kit/labels) correctly depending on the type of contribution.
