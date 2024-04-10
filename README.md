@@ -19,7 +19,7 @@ Il kit include le seguenti risorse:
 - la **libreria di componenti** (`comuni-libreria-componenti`);
 
 
-Questi file, disponibili sia per Figma e Sketch, ti forniranno un quadro chiara di come dovrebbe apparire e funzionare un sito web, aiutandoti a mantenere una coerenza visiva e funzionale con gli standard del modello di sito dei comuni Italia.
+Questi file, disponibili sia per Figma e Sketch, forniscono un quadro chiaro di come dovrebbe apparire e funzionare il sito web di un Comune, mantenendo una coerenza visiva e funzionale con gli standard del modello.
 
 Attenzione: alcune funzionalità presenti nei file Figma (.fig) potrebbero non 
 essere presenti e/o non corrette nei file .sketch convertiti utilizzando la 
@@ -33,7 +33,7 @@ Scarica l'ultima versione disponibile nella pagina [Release](https://github.com/
 
 ### Libreria di componenti
 
-Per utilizzare la libreria dei componenti è necessario aggiungere il file `comuni-libreria-componenti` come libreria. 
+Per utilizzare la libreria dei componenti è necessario aggiungere il file `comuni-libreria-componenti`. 
 
 Di seguito, le guide disponibili a seconda del software di utilizzo:
 
